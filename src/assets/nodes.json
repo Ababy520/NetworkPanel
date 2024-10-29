@@ -1,12 +1,4 @@
 {
-	"高速":{
-		"腾讯CDN":"http://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.15_240808_x64_01.exe#enhanced",
-		"华为CDN":"https://store-drcn.hispace.dbankcloud.cn/dl/appdl/application/apk/ce/cea074d22c784e4ab8a5b19ba8b493a5/com.huawei.appmarket.1908281654.apk?maple=0&trackId=0&distOpEntity=HWSW#enhanced",
-		"阿里CDN":"http://download.taobaocdn.com/wireless/taobao4android/latest/701483.apk#enhanced",
-		"阿里CDN[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vdGFvYmFvLmNvbS8iLCJ1cGxvYWQiOnRydWV9##580d3465bdbdc07a00f62a527f041068",
-		"腾讯CDN[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vcXEuY29tLyIsInVwbG9hZCI6dHJ1ZX0##0dcede8e37f3fff4d6dd9bd00cfc5c2f",
-		"上海交大[上行]":"networkpanel://node/#eyJ1cmwiOiJodHRwOi8vbWlycm9ycy5zanR1Zy5zanR1LmVkdS5jbi9zcGVlZHRlc3QvZW1wdHkiLCJ1cGxvYWQiOnRydWV9##299f3d5cfa46a7904545f381d4b77ed8"
-	},
 	"运营商":{
 		"咪咕快游[高速]":"https://freeserver.migufun.com/resource/beta/apk/20240712112601/MiguPlay-V3.85.1.1_miguzsj.apk",
 		"咪咕音乐":"https://wsdkdl.migu.cn:8443/b486900f41fc411187240dcb45fdbc8d/1723479628065/netsdk_b.js",
