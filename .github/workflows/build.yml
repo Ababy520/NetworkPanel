@@ -1,4 +1,4 @@
-name: auto-build and upload to tencent COS
+name: auto-build
 
 on:
   push:
